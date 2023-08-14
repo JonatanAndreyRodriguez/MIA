@@ -1,4 +1,4 @@
-ID_Cliente,Ubicacion,Tipo_Propiedad,Estrato,Consumo_Enero,Consumo_Febrero,Consumo_Marzo,Consumo_Abril,Consumo_Mayo,Consumo_Junio,Pago_Enero,Pago_Febrero,Pago_Marzo,Pago_Abril,Pago_Mayo,Pago_Junio,Facturas_Atrasadas,Inspecciones,Reclamos,Fraude
+﻿ID_Cliente,Ubicacion,Tipo_Propiedad,Estrato,Consumo_Enero,Consumo_Febrero,Consumo_Marzo,Consumo_Abril,Consumo_Mayo,Consumo_Junio,Pago_Enero,Pago_Febrero,Pago_Marzo,Pago_Abril,Pago_Mayo,Pago_Junio,Facturas_Atrasadas,Inspecciones,Reclamos,Fraude
 1,Ciudad A,Residencial,2,750,950,800,500,1000,700,105,133,112,70,140,98,0,1,0,No
 2,Ciudad B,Comercial,2,5000,4000,3500,4500,6000,5000,700,560,490,630,840,700,2,2,2,No
 3,Ciudad A,Residencial,3,900,1000,1000,1500,800,950,126,140,140,210,112,133,1,0,1,No
